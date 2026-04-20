@@ -4,3 +4,4 @@ sqlalchemy
 pydantic
 python-dateutil
 pytest
+psycopg2-binary
